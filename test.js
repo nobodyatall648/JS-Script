@@ -1,1 +1,3 @@
-alert(1);
+document.body.innerHTML = '<img src=x onerror=alert(1) />';
+
+
